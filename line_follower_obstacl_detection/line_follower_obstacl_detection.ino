@@ -8,7 +8,7 @@
 #define R_sensor 3   // Right IR
 
 #define TRIG 6
-#define ECHO 70
+#define ECHO 7
 
 // --------- SETUP ----------
 void setup() {
